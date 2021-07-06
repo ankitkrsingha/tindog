@@ -148,6 +148,7 @@ h2 {
   text-align: center;
   padding: 7% 15%;
 }
+
 .footer-logo {
   padding: 1rem 0.5rem 1rem;
 }
@@ -155,6 +156,10 @@ h2 {
 @media (max-width: 1028px) {
   #title {
     text-align: center;
+  }
+
+  .navbar-collapse {
+    text-align: right;
   }
 
   .title-image {
